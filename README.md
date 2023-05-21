@@ -1,4 +1,6 @@
 # Kittens Game （猫国建设者）  #
+https://hongye123456.github.io/cat-zh/
+
 
 ### 网页版本链接 ###
 * 最新汉化版本（v 1.4.6.2.d (29 may 2019)）：http://likexia.gitee.io/cat-zh/
